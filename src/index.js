@@ -144,7 +144,7 @@ function BookList () {
 );
 }
 
-const Book = ({img, ti tle, author}) => {
+const Book = ({img, title, author}) => {
  // attribiute, evevntHandler
  // onClick, OnMouseOver
 
